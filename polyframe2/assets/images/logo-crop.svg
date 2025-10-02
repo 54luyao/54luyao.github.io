@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_x34_6-50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #221f1f;
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #6b0b0b;
+        stroke: #6b0b0b;
+      }
+
+      .cls-4 {
+        fill: #802d2d;
+      }
+
+      .cls-5 {
+        fill: #d1b3b3;
+      }
+
+      .cls-6 {
+        fill: #6b1300;
+      }
+
+      .cls-7 {
+        fill: #d46a6a;
+      }
+
+      .cls-8 {
+        fill: #212121;
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <filter id="drop-shadow-1" x="-184.02" y="-148.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" x="-112.02" y="-148.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-2" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-3" x="-76.02" y="-148.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-3" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-4" x="-40.02" y="-148.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-4" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-5" x="-4.02" y="-148.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-5" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-6" x="31.98" y="-148.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-6" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-7" x="140.22" y="-148.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-7" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-8" x="-184.02" y="-112.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-8" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-9" x="-148.02" y="-112.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-9" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-10" x="-110.58" y="-109.62" width="27.6" height="25.68" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-10" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-10" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-11" x="-76.02" y="-112.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-11" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-11" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-12" x="-40.02" y="-112.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-12" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-12" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-13" x="-4.02" y="-112.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-13" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-13" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-14" x="31.98" y="-112.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-14" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-14" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-15" x="69.9" y="-108.9" width="26.64" height="25.44" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-15" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-15" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-16" x="102.06" y="-112.5" width="39.6" height="31.44" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-16" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-16" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-17" x="138.06" y="-122.69" width="39.6" height="41.63" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-17" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-17" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-18" x="-148.02" y="-76.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-18" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-18" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-19" x="-110.82" y="-74.82" width="28.08" height="28.08" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-19" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-19" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-20" x="-74.82" y="-74.82" width="28.08" height="28.08" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-20" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-20" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-21" x="-38.82" y="-74.82" width="28.08" height="28.08" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-21" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-21" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-22" x="-11.15" y="-76.38" width="36.53" height="36.53" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-22" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-22" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-23" x="30.49" y="-73.86" width="29.81" height="28.38" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-23" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-23" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-24" x="67.98" y="-76.02" width="36.44" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-24" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-24" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-25" x="106.14" y="-71.94" width="26.4" height="24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-25" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-25" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-26" x="139.98" y="-76.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-26" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-26" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-27" x="-181.86" y="-37.86" width="26.16" height="26.16" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-27" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-27" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-28" x="-146.1" y="-36.9" width="26.64" height="25.44" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-28" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-28" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-29" x="-112.02" y="-40.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-29" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-29" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-30" x="-72.9" y="-37.86" width="24.24" height="26.16" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-30" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-30" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-31" x="-37.86" y="-37.86" width="26.16" height="26.16" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-31" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-31" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-32" x="-4.02" y="-40.84" width="30.24" height="31.06" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-32" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-32" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-33" x="67.98" y="-40.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-33" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-33" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-34" x="103.98" y="-40.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-34" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-34" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-35" x="139.98" y="-39.78" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-35" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-35" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-36" x="-184.02" y="-4.02" width="30.24" height="31.44" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-36" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-36" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-37" x="-148.02" y="-4.02" width="30.24" height="31.44" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-37" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-37" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-38" x="-112.02" y="-4.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-38" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-38" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-39" x="-76.02" y="-4.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-39" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-39" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-40" x="-40.02" y="-4.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-40" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-40" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clippath">
+      <path class="cls-3" d="M11.2,14.92c-2.07,0-4.93-.43-5.6-.54-1.1-.17-1.1-.91-1.1-1.31,0-.51.39-.9,1.37-1.83.56-.53,1.19-1.14,1.75-1.79,1.22-1.42,6.01-6.51,6.8-7.14l.09-.07c.76-.6,2.33-1.85,3.81-.63l.05.04c.07.08.71.79.38,1.56l-.08.2c-.15.38-.26.65-.76,1.37-.19.28-.1,1.8-.05,2.7.07,1.23.14,2.4-.08,3.03-.46,1.31-3.19,3.94-5.18,4.3-.38.07-.86.1-1.39.1Z"/>
+    </clipPath>
+    <filter id="drop-shadow-41" x="67.98" y="-4.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-41" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-41" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-42" x="103.98" y="-4.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-42" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-42" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-43" x="139.98" y="-4.02" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-43" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-43" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-44" x="-184.02" y="31.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-44" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-44" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-45" x="-148.02" y="31.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-45" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-45" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-46" x="-112.02" y="31.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-46" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-46" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-47" x="-75.78" y="31.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-47" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-47" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-48" x="-39.78" y="31.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-48" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-48" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-49" x="-4.02" y="31.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-49" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-49" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-50" x="31.98" y="31.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-50" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-50" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-51" x="103.98" y="31.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-51" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-51" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-52" x="67.98" y="31.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-52" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-52" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-53" x="139.98" y="31.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-53" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-53" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-54" x="-184.02" y="67.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-54" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-54" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-55" x="-148.02" y="67.98" width="30.24" height="31.44" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-55" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-55" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-56" x="-112.02" y="67.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-56" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-56" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-57" x="-73.76" y="70.5" width="25.81" height="25.08" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-57" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-57" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-58" x="-40.02" y="67.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-58" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-58" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-59" x="-4.5" y="67.5" width="31" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-59" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-59" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-60" x="31.98" y="70.14" width="29.28" height="26.16" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-60" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-60" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-61" x="103.98" y="67.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-61" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-61" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-62" x="67.98" y="67.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-62" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-62" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-63" x="139.98" y="67.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-63" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-63" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-64" x="-181.86" y="106.14" width="26.16" height="26.64" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-64" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-64" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-65" x="-148.02" y="106.14" width="29.28" height="26.16" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-65" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-65" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-66" x="-112.02" y="103.98" width="30.24" height="31.44" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-66" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-66" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-67" x="-76.02" y="103.98" width="30.24" height="31.44" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-67" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-67" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-68" x="-38.1" y="107.1" width="27.12" height="25.44" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-68" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-68" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-69" x="-4.02" y="103.98" width="30.24" height="30.24" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-69" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-69" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-70" x="32.22" y="103.98" width="30.24" height="31.44" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-70" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-70" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-71" x="67.98" y="106.14" width="29.28" height="26.16" filterUnits="userSpaceOnUse">
+      <feOffset dx=".71" dy=".71"/>
+      <feGaussianBlur result="blur-71" stdDeviation="1"/>
+      <feFlood flood-color="#231f20" flood-opacity=".35"/>
+      <feComposite in2="blur-71" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ExampleFiles">
+    <rect class="cls-3" x="-1.5" y="-1.5" width="24" height="24"/>
+    <polyline class="cls-1" points="12 18 11 18 11 13.5"/>
+    <polyline class="cls-1" points="16 18 15 18 15 13.5"/>
+    <polyline class="cls-1" points="15.5 4 15.5 3 20 3"/>
+    <path class="cls-6" d="M.54,19.35c.63.46,2.95-1.4,5.45-3.13s3.77-2.25,3.5-2.73-2.77-1.34-3.18-1.18-3.82,4.02-4.82,5.18-.95,1.85-.95,1.85Z"/>
+    <path class="cls-7" d="M11.2,14.92c-2.07,0-4.93-.43-5.6-.54-1.1-.17-1.1-.91-1.1-1.31,0-.51.39-.9,1.37-1.83.56-.53,1.19-1.14,1.75-1.79,1.22-1.42,6.01-6.51,6.8-7.14l.09-.07c.76-.6,2.33-1.85,3.81-.63l.05.04c.07.08.71.79.38,1.56l-.08.2c-.15.38-.26.65-.76,1.37-.19.28-.1,1.8-.05,2.7.07,1.23.14,2.4-.08,3.03-.46,1.31-3.19,3.94-5.18,4.3-.38.07-.86.1-1.39.1Z"/>
+    <path class="cls-2" d="M18,2c-1.21-1-2.53.13-3.27.71s-5.43,5.55-6.73,7.07-3,2.8-3,3.23-.04.77.68.89,5.04.77,6.82.44,4.4-2.83,4.8-3.98-.35-5.07.2-5.85.58-.97.79-1.47-.29-1.03-.29-1.03Z"/>
+    <g class="cls-9">
+      <ellipse class="cls-4" cx="11.67" cy="4.24" rx="10.1" ry="3.09" transform="translate(-.74 3.72) rotate(-17.58)"/>
+      <ellipse class="cls-4" cx="9.82" cy="9.5" rx="10.1" ry="3.09" transform="translate(-3.65 7.2) rotate(-34.37)"/>
+      <ellipse class="cls-5" cx="23.98" cy="11.74" rx="3.09" ry="10.1" transform="translate(-.44 22.54) rotate(-49.95)"/>
+    </g>
+    <circle class="cls-8" cx="17" cy="3" r=".5"/>
+  </g>
+</svg>
