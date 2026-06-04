@@ -1,0 +1,12 @@
+2023 Fall
+University of Pennsylvania
+Graduate Seminar
+ARCH-7326: Developing Computational Solutions for Design Problems
+
+Co-instructor: Mostafa Akbari
+
+Students: Nazhila Alizadegan, Claudia Campuzano, Bojia Chen, Kai Chen, Nimika Nimika Devi, Amber Hu, Destynn Ayrom Keuchel, Xuanyu Li, Loewie Long, Behzad Modanloo, Amir Motavaselian, Cheuk Ming Ng, Maaz Maaz Sidiqui, Jianqing Shou, Vardnan Sivarajah, Xiaojie Song, Leechen Zhu, Xingzheng qiu
+
+Description: Developing Computational Solutions for Design Problems is a seminar aimed at M.Arch students who seek to identify, investigate, formulate, and resolve design problems using advanced computational techniques. This course goes through the critical knowledge and technical foundations that current computational design and modeling tools are built upon, then enables and encourages the students to rethink, reinvestigate, and resolve their design problems from a computational and algorithmic perspective. 
+
+Computational design in Architecture is an interdisciplinary field that is deeply rooted in science, technology, and mathematics. Understanding the foundation in these fields is necessary for designers to freely exploit the power of the emerging technologies and unleash the creativity in dealing with design problems. Although there are massive bodies of knowledge in the related fields, there is only a small subset of concepts and knowledge that is pertinent to the work of creative designers and researchers. This subset of essential knowledge is carefully curated and introduced through the seminar. More importantly, this seminar also initiates the students to rethinking and resolving problems encountered in design process from the perspective of computation. Students are encouraged to develop and share their own computational tools, which could have broader benefits for the entire design community.

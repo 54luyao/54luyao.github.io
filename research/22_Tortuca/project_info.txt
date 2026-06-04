@@ -1,0 +1,30 @@
+Project Name
+Tortuca: Hollow Glass Unit Bridge Prototype
+
+2022
+University of Pennsylvania
+
+Team
+Polyhedral Structures Laboratory, University of Pennsylvania, Villanova University, The City College of New York (CCNY), Technische Universität Darmstadt (TU Darmstadt), and Eventscape NY, Long Island City.
+Principal Investigators: Masoud Akbarzadeh, Joseph Yost, Mohammad Bolhassani, Jens Schneider
+Project Architect: Yao Lu
+Project Team: Yao Lu, Ali Seyedahmadian, Philipp Amir Chhadeh, Matthew Cregan, Mohammad Bolhassani, Thomas Lee, Vincent Micozzi, Tristan Fischer-Smith, Joseph Robert Yost, Jens Schneider, Gareth Brennan, Masoud Akbarzadeh
+Structural and Computational detailing: Yao Lu, Masoud Akbarzadeh
+Structural Analysis: Philipp Amir Chhadeh and Mohammad Bolhassani
+Structural Load testing: Joseph Robert Yost and Mathew Cregan
+Fabrication and assembly: Yao Lu, Ali Seyedahmadian, Thomas Lee, Vincent Micozzi, Tristan Fischer-Smith, Gareth Brennan
+Five-axis milling services: Eventscape NY
+Plywood formwork: Eventscape NY
+Metalworks: Eventscape NY
+Five-axis waterjet services: AquaJet Services LLC
+
+Awards
+DigitalFUTURES Best Project Award 2022
+The 16th Annual R+D Awards
+Dezeen Awards 2022
+
+Acknowledgments
+This research was supported by the University of Pennsylvania Research Foundation Grant (URF), National Science Foundation (NSF) CAREER AWARD (NSF CAREER-1944691- CMMI), and the National Science Foundation (NSF) Future Eco Manufacturing Research Grant (NSF, FMRG-CMMI 2037097) to Dr. Masoud Akbarzadeh. Also, this study was supported by Villanova University Summer Grant Program (USG) to Dr. Joseph Robert Yost. Special thanks to Gareth Brennan, Ali Seyedahmadian, and Eventscape NY for generously providing the machinery and the space.
+
+Description
+Tortuca is an efficient and innovative structural system constructed by the dry assembly of thirteen hollow glass units. Each block is made of 1cm (~0.4″) glass deck plates and 2cm (0.7″) acrylic side plates precisely cut to match the structural geometry. The structure spans 3.2 meters (10.5 ft) with a mass of only 250kg (550 lbs), where the float glass is the primary load-bearing material. Moreover, a single person can assemble and disassemble the structure without needing a crane or additional labor. The geometry-based structural design methods of polyhedral graphic statics were used to design the optimized structural form of Tortuca. This research explores the potential of using an extremely delicate material such as float glass as a primary structural system in buildings and infrastructural projects. Furthermore, it shows how the use of construction materials can be minimized and how utilizing the material in its purest format would make the recycling process much easier after the structure’s life cycle.

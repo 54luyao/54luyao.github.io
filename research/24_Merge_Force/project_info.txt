@@ -1,0 +1,18 @@
+Project Name
+Merged Force Diagrams for Expanded Tension-Compression Design Space in Polyhedral Graphic Statics
+
+2024
+University of Pennsylvania / Thomas Jefferson University
+
+Team
+Hua Chai, Yao Lu, Yefan Zhi, Masoud Akbarzadeh
+
+Acknoledgements
+This research is funded by the National Science Foundation CAREER Award (NSF CAREER-1944691 CMMI) to Dr. Masoud Akbarzadeh.
+
+Description
+This research presents a novel approach to structural form-finding using Polyhedral Graphic Statics (PGS), in which two or more force diagrams are computationally merged to generate new diagrams with complex topologies. Unlike conventional methods that directly construct force diagrams composed of convex, nonintersecting cells, the proposed merging strategy enables the creation of intricate force networks that include zero-volume and intersecting cells. These configurations are difficult to achieve through conventional approaches and more closely reflect real-world external loading scenarios. The resulting force diagrams often yield novel structural forms that feature both tension and compression members in equilibrium. Case studies leveraging the geometric degrees of freedom (GDoF) further demonstrate how a merged form diagram can produce multiple distinct structural configurations, each with different arrangements of tension and compression members. Through a clear force mapping process, the method enables designers to implement strategic material selection, placing tension-optimized materials, such as high-strength cables or fiber composites, in areas experiencing tensile forces, while utilizing compression-resistant materials in zones under pressure loads. This expansion of the PGS design space enables innovative structural solutions for architectural applications that require integrated tension-compression systems, ranging from large-span bridges and canopies to potentially revolutionary vertical structures.
+
+
+Keywords
+Polyhedral Graphic Statics, Design Methodology
