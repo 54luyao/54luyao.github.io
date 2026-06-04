@@ -1,5 +1,5 @@
 import { profile } from "../data/profile.js?v=20260603-bio";
-import { projects } from "../data/projects.js?v=20260604-generated";
+import { projects } from "../data/projects.js?v=20260604-no-research-card-tags";
 import { publications } from "../data/publications.js?v=20260603-dissertation";
 import { courses, teachingThemes } from "../data/teaching.js?v=20260604-institution";
 import { homePhotos as homePhotoItems } from "../data/homePhotos.js?v=20260602";
@@ -266,7 +266,7 @@ function projectCard(project) {
         <img src="${project.image}" alt="${project.title}">
       </a>
       <div class="card-body">
-        <div class="meta-row"><span>${project.year}</span><span class="meta-separator" aria-hidden="true">/</span><span>${project.category}</span></div>
+        <div class="meta-row"><span class="project-year">${project.year}</span><span class="meta-separator" aria-hidden="true">/</span><span>${project.category}</span></div>
         <h3><a href="/research/detail.html?slug=${project.slug}">${project.title}</a></h3>
       </div>
     </article>
@@ -280,6 +280,14 @@ function mediaItem(item, alt) {
     return `<video src="${src}" controls muted playsinline></video>`;
   }
   return `<img src="${src}" alt="${alt}">`;
+}
+
+function lineBreakText(value) {
+  return value
+    .split(/\n+/)
+    .map((line) => line.trim())
+    .filter(Boolean)
+    .join("<br>");
 }
 
 function publicationItem(pub, index) {
@@ -324,7 +332,11 @@ function courseCard(course) {
 
 function renderHome() {
   renderHomePhotos();
-  document.querySelector("[data-featured-projects]").innerHTML = projects.slice(0, 6).map(projectCard).join("");
+  const recentPrototypes = projects
+    .filter((project) => (project.tags || []).includes("Physical Prototyping"))
+    .sort((a, b) => parseInt(b.year, 10) - parseInt(a.year, 10))
+    .slice(0, 5);
+  document.querySelector("[data-featured-projects]").innerHTML = recentPrototypes.map(projectCard).join("");
   document.querySelector("[data-selected-publications]").innerHTML = publications.slice(0, 4).map(publicationItem).join("");
   document.querySelector("[data-teaching-preview]").innerHTML = courses.slice(0, 3).map(courseCard).join("");
 }
@@ -349,12 +361,12 @@ function makeFilters(target, values, onSelect) {
 function renderProjects() {
   const grid = document.querySelector("[data-projects]");
   const filters = document.querySelector("[data-project-filters]");
-  const categories = [...new Set(projects.map((project) => project.category))];
-  const draw = (category = "All") => {
-    const filtered = category === "All" ? projects : projects.filter((project) => project.category === category);
+  const keywords = [...new Set(projects.flatMap((project) => project.tags || []))];
+  const draw = (keyword = "All") => {
+    const filtered = keyword === "All" ? projects : projects.filter((project) => (project.tags || []).includes(keyword));
     grid.innerHTML = filtered.map(projectCard).join("");
   };
-  makeFilters(filters, categories, draw);
+  makeFilters(filters, keywords, draw);
   draw();
 }
 
@@ -371,14 +383,14 @@ function renderProjectDetail() {
     <section class="container section-tight research-detail-section">
       <article class="research-detail">
         <div>
-          <p class="eyebrow">${project.year}</p>
           <h1>${project.title}</h1>
           <dl class="research-info-list">
             ${project.year ? `<dt>Year</dt><dd>${project.year}</dd>` : ""}
             ${project.category ? `<dt>Institution</dt><dd>${project.category}</dd>` : ""}
-            ${project.collaborators ? `<dt>Team / Credits</dt><dd>${project.collaborators}</dd>` : ""}
+            ${project.collaborators ? `<dt>Team</dt><dd>${lineBreakText(project.collaborators)}</dd>` : ""}
             ${project.technical ? `<dt>Description</dt><dd><p>${project.technical}</p></dd>` : ""}
-            ${project.awards ? `<dt>Awards / Acknowledgements</dt><dd>${project.awards}</dd>` : ""}
+            ${project.awards ? `<dt>Awards</dt><dd>${project.awards}</dd>` : ""}
+            ${project.acknowledgements ? `<dt>Acknowledgements</dt><dd>${project.acknowledgements}</dd>` : ""}
           </dl>
           <div class="text-links research-detail-links">
             <a href="/research/">Back to Research</a>

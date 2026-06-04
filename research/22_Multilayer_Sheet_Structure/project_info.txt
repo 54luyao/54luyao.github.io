@@ -1,4 +1,20 @@
-2016
-Tongji University
+Project Name
+Multi-Layer Sheet-Based Lightweight Funicular Structures
 
-Description: This project is a wall switch attachment that adds infrared remote control capability to conventional wall switches without replacing the existing electrical hardware. Enclosed in a transparent acrylic housing, the device uses a compact mechanical linkage, servo motor, and microcontroller to physically toggle the switch in response to an infrared signal. The design provides a simple retrofit solution for improving convenience and accessibility while preserving the original switch and wiring. By combining digital control with a direct mechanical interface, the project explores how everyday architectural elements can be upgraded through low cost, modular, and non invasive computational devices.
+2022
+University of Pennsylvania
+
+Team
+Yao Lu, Thamer Alsalem, Masoud Akbarzadeh
+
+Awards
+IASS 2022 Hangai Prize
+
+Acknowledgments
+This research was supported by the University of Pennsylvania Research Foundation Grant (URF), National Science Foundation (NSF) CAREER AWARD (NSF CAREER-1944691- CMMI), and the National Science Foundation (NSF) Future Eco Manufacturing Research Grant (NSF, FMRG-CMMI 2037097) to Dr. Masoud Akbarzadeh.
+
+Description
+Multi-layer spatial structures usually take considerable external loads with minimized material usage at all scales. Polyhedral Graphic Statics (PGS) provides a method to design multi-layer funicular polyhedral structures. The structural forms usually materialized as space frames. Our previous research shows that the intrinsic planarity of the polyhedral geometries can be harnessed for efficient fabrication and construction processes using flat-sheet materials. Sheet-based structures are advantageous over conventional space frame systems because sheets can provide more load paths and constrain the kinematic degrees of freedom of the nodes. Therefore, they can take a more comprehensive load range than space frames. Moreover, sheet materials can be fabricated into complex shapes using CNC milling, laser cutting, water jet cutting, and CNC bending techniques. However, not all sheets are necessary as long as the load paths are preserved, and the system does not have kinematic degrees of freedom. To find a reduced set of faces that satisfies the requirements, this paper incorporates and adapts the matrix analysis method to calculate the kinematic degree of freedom of sheet-based structure. Built upon this, an iterative algorithm is devised to help find the reduced set of faces with zero kinematic degrees of freedom. To attest to the advantage of this method over bar-node construction, a comparative study is carried out using finite element analysis. The result shows that the sheet-based system has improved performance with the same volume of material and can withstand a wide range of loading scenarios.
+
+Keywords
+Polyhedral Graphic Statics, Computational Methodology, Physical Prototyping, Structure

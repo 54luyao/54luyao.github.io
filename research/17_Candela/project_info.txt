@@ -1,4 +1,10 @@
+Project Name
+Concrete Shell Typologies: A Catalogue of Structural Legacies of Félix Candela
+
 2016
 Tongji University
 
-Description: This project is a wall switch attachment that adds infrared remote control capability to conventional wall switches without replacing the existing electrical hardware. Enclosed in a transparent acrylic housing, the device uses a compact mechanical linkage, servo motor, and microcontroller to physically toggle the switch in response to an infrared signal. The design provides a simple retrofit solution for improving convenience and accessibility while preserving the original switch and wiring. By combining digital control with a direct mechanical interface, the project explores how everyday architectural elements can be upgraded through low cost, modular, and non invasive computational devices.
+Description: This Master's thesis research is a comprehensive exploration of Félix Candela’s architectural legacy, with a particular focus on the structural aspects that underpinned his innovative designs. By closely examining Candela’s body of work, we seek to unveil the fundamental principles that informed his design process. Candela’s structural thinking was a driving force behind his architectural creations, and this study aims to shed light on the intricate relationship between form and structure in his designs. Through a meticulous examination of Candela’s structural philosophy, this research seeks to provide valuable insights for architects, engineers, and scholars interested in the intersection of structure and design. By gaining a deeper understanding of Candela’s principles and their impact on architectural creativity, we can better appreciate the enduring relevance of his contributions to the field.
+
+Keywords
+Structure, Architecture

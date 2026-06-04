@@ -1,4 +1,13 @@
+Project Name
+Overlap 2.0: A Multilayer Shell for Architectural Applications
+
 2016
 Tongji University
 
-Description: This project is a wall switch attachment that adds infrared remote control capability to conventional wall switches without replacing the existing electrical hardware. Enclosed in a transparent acrylic housing, the device uses a compact mechanical linkage, servo motor, and microcontroller to physically toggle the switch in response to an infrared signal. The design provides a simple retrofit solution for improving convenience and accessibility while preserving the original switch and wiring. By combining digital control with a direct mechanical interface, the project explores how everyday architectural elements can be upgraded through low cost, modular, and non invasive computational devices.
+Team
+Yao Lu, Yang Yang
+
+Description: Built upon Overlap 1.0, this design research project explores the coordination of multiple shell layers and investigates how the spaces generated between them can be used for architectural applications. Using a community market as the program, the project develops a multilayer shell system that integrates structural form, spatial organization, circulation, and environmental performance. The overlapping shells create a range of shaded, semi-open, and enclosed spaces that support different scales of public activity, from market stalls and gathering areas to transitional spaces. Through this proposal, the shell is not treated only as a structural surface, but also as an architectural system capable of shaping space, movement, and social interaction.
+
+Keywords
+Graphic Statics, Structure, Architecture

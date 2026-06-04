@@ -2,7 +2,7 @@ Project Name
 Merged Force Diagrams for Expanded Tension-Compression Design Space in Polyhedral Graphic Statics
 
 2024
-University of Pennsylvania / Thomas Jefferson University
+Thomas Jefferson University
 
 Team
 Hua Chai, Yao Lu, Yefan Zhi, Masoud Akbarzadeh
@@ -15,4 +15,4 @@ This research presents a novel approach to structural form-finding using Polyhed
 
 
 Keywords
-Polyhedral Graphic Statics, Design Methodology
+Polyhedral Graphic Statics, Computational Methodology, Physical Prototyping, Structure

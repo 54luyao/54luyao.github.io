@@ -1,4 +1,10 @@
+Project Name
+Overlap 1.0: A Self-Overlapping Shell
+
 2016
 Tongji University
 
-Description: This project is a wall switch attachment that adds infrared remote control capability to conventional wall switches without replacing the existing electrical hardware. Enclosed in a transparent acrylic housing, the device uses a compact mechanical linkage, servo motor, and microcontroller to physically toggle the switch in response to an infrared signal. The design provides a simple retrofit solution for improving convenience and accessibility while preserving the original switch and wiring. By combining digital control with a direct mechanical interface, the project explores how everyday architectural elements can be upgraded through low cost, modular, and non invasive computational devices.
+Description: This design research project was developed during the DigitalFUTURES 2016 workshop, instructed by Philippe Block and Shajay Bhooshan. The workshop introduced the principles of 2D graphic statics and their extension into three-dimensional form-finding through thrust network analysis (TNA). Using the Rhino plugin RhinoVAULT, the project explores how equilibrium-based design methods can generate geometrically complex, structurally informed, and architecturally inspiring forms. Through this process, structural logic becomes an active driver of spatial and formal exploration.
+
+Keywords
+Graphic Statics, Physical Prototyping, Structure

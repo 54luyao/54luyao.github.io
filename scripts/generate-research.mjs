@@ -33,8 +33,20 @@ const cleanParagraphs = (value = "") =>
     .map((paragraph) => paragraph.replace(/\s+/g, " ").trim())
     .filter(Boolean);
 
+const cleanLines = (value = "") =>
+  value
+    .trim()
+    .split(/\r?\n/)
+    .map((line) => line.replace(/\s+/g, " ").trim())
+    .filter(Boolean);
+
 const sectionValue = (text, heading) => {
   const pattern = new RegExp(`^${heading}\\s*\\n([\\s\\S]*?)(?=\\n[A-Z][^\\n]{1,48}\\n|$)`, "im");
+  return text.match(pattern)?.[1]?.trim() || "";
+};
+
+const bracketedSectionValue = (text, heading) => {
+  const pattern = new RegExp(`^${heading}\\s*\\n\\{\\s*\\n([\\s\\S]*?)\\n\\}\\s*`, "im");
   return text.match(pattern)?.[1]?.trim() || "";
 };
 
@@ -50,7 +62,8 @@ const parseProjectInfo = (text, folder) => {
   const yearIndex = lines.indexOf(year);
   const institution = yearIndex >= 0 ? lines[yearIndex + 1] || "" : lines[1] || "";
   const description = inlineValue(text, "Description") || sectionValue(text, "Description");
-  const team = sectionValue(text, "Team") || sectionValue(text, "Credits");
+  const bracketedTeam = bracketedSectionValue(text, "Team");
+  const team = bracketedTeam || sectionValue(text, "Team") || sectionValue(text, "Credits");
   const acknowledgements = sectionValue(text, "Acknowledgments") || sectionValue(text, "Acknowledgements") || sectionValue(text, "Project Acknowledgement") || sectionValue(text, "Acknoledgements");
   const awards = sectionValue(text, "Awards");
   const keywords = sectionValue(text, "Keywords");
@@ -60,7 +73,7 @@ const parseProjectInfo = (text, folder) => {
     year,
     institution,
     description: cleanParagraphs(description),
-    team: team.replace(/\s+/g, " ").trim(),
+    team: team.trim(),
     acknowledgements: acknowledgements.replace(/\s+/g, " ").trim(),
     awards: awards.replace(/\s+/g, " ").trim(),
     keywords: keywords.split(",").map((keyword) => keyword.trim()).filter(Boolean)
@@ -93,7 +106,7 @@ for (const folder of folders) {
       };
     });
   const description = parsed.description.join(" ");
-  const tags = parsed.keywords.length ? parsed.keywords : [parsed.institution].filter(Boolean);
+  const tags = parsed.keywords;
 
   projects.push({
     slug: slugify(folder),
@@ -113,7 +126,8 @@ for (const folder of folders) {
     gallery: media,
     technical: description || "",
     related: [],
-    awards: parsed.awards || parsed.acknowledgements || ""
+    awards: parsed.awards || "",
+    acknowledgements: parsed.acknowledgements || ""
   });
 }
 

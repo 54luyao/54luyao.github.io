@@ -1,4 +1,13 @@
-2016
-Tongji University
+Project Name
+Kinetic Stairs
 
-Description: This project is a wall switch attachment that adds infrared remote control capability to conventional wall switches without replacing the existing electrical hardware. Enclosed in a transparent acrylic housing, the device uses a compact mechanical linkage, servo motor, and microcontroller to physically toggle the switch in response to an infrared signal. The design provides a simple retrofit solution for improving convenience and accessibility while preserving the original switch and wiring. By combining digital control with a direct mechanical interface, the project explores how everyday architectural elements can be upgraded through low cost, modular, and non invasive computational devices.
+2019
+Cornell University
+
+Team
+Yao Lu, Yang Yang
+
+Description: Developed in the Kinetic Facade seminar at Cornell University, instructed by Martin Miller, this project investigates the kinematics of adaptive systems and explores how a limited number of degrees of freedom can be used to drive larger and more complex kinetic behaviors. Through a series of small physical prototypes, the project examines the relationship between mechanical linkages, motion control, and architectural responsiveness. Arduino development boards were used to actuate the systems, allowing the prototypes to translate computational input into controlled physical movement.
+
+Keywords
+Kinematics, Structure

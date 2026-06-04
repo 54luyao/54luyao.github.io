@@ -28,3 +28,6 @@ This research was supported by the University of Pennsylvania Research Foundatio
 
 Description
 Tortuca is an efficient and innovative structural system constructed by the dry assembly of thirteen hollow glass units. Each block is made of 1cm (~0.4″) glass deck plates and 2cm (0.7″) acrylic side plates precisely cut to match the structural geometry. The structure spans 3.2 meters (10.5 ft) with a mass of only 250kg (550 lbs), where the float glass is the primary load-bearing material. Moreover, a single person can assemble and disassemble the structure without needing a crane or additional labor. The geometry-based structural design methods of polyhedral graphic statics were used to design the optimized structural form of Tortuca. This research explores the potential of using an extremely delicate material such as float glass as a primary structural system in buildings and infrastructural projects. Furthermore, it shows how the use of construction materials can be minimized and how utilizing the material in its purest format would make the recycling process much easier after the structure’s life cycle.
+
+Keywords
+Polyhedral Graphic Statics, Physical Prototyping, Structure

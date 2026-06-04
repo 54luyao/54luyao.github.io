@@ -1,4 +1,22 @@
-2016
-Tongji University
+Project Name
+Notra: A Kerf-Bent Polyhedral Timber Frame
 
-Description: This project is a wall switch attachment that adds infrared remote control capability to conventional wall switches without replacing the existing electrical hardware. Enclosed in a transparent acrylic housing, the device uses a compact mechanical linkage, servo motor, and microcontroller to physically toggle the switch in response to an infrared signal. The design provides a simple retrofit solution for improving convenience and accessibility while preserving the original switch and wiring. By combining digital control with a direct mechanical interface, the project explores how everyday architectural elements can be upgraded through low cost, modular, and non invasive computational devices.
+2025
+Thomas Jefferson University
+
+Team
+Yulun Liu (SOM), Yiliang Shao (SOM), Yicheng Zhang (Atelier Pensee), Yao Lu
+
+Photographer
+Zhikang Liu
+
+Description: Notra is a kerf-bent timber frame coffee table (Figure 1) that serves as a small-scale prototype for a novel space frame system. It explores an integrated design and fabrication approach that blurs the boundary between nodes and bars in timber space frame structures. The system features curved nodal geometries fabricated from planar timber sheets
+using three-axis CNC milling and kerf-bending, eliminating the need for molds or custom components typically required for complex joints. Precisely calculated kerf cuts allow
+the elements to bend to their intended curvature without auxiliary tools. This approach reduces material waste, simplifi es fabrication, and enhances accessibility for constructing
+geometrically intricate frames.
+
+Acknowledgements
+This project was supported by College of Architecture and the Built Environment, Thomas Jefferson University.
+
+Keywords
+Polyhedral Graphic Statics, Physical Prototyping, Structure

@@ -3,7 +3,7 @@ import { extname, join } from "node:path";
 
 const root = "teaching";
 const output = "data/teaching.js";
-const version = "research-route";
+const version = "20260604-no-research-card-tags";
 const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: "base" });
 const imageExtensions = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif"]);
 const videoExtensions = new Set([".mp4", ".mov", ".webm"]);
@@ -59,7 +59,6 @@ const detailPage = (course, gallery) => `<!doctype html>
       <section class="container section-tight course-detail-section">
         <article class="course-detail">
           <div>
-            <p class="eyebrow">${escapeHtml(course.semester)}</p>
             <h1>${escapeHtml(course.title)}</h1>
             <dl class="course-info-list">
               <dt>Semester</dt>

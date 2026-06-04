@@ -1,7 +1,7 @@
 import { readdir, writeFile } from "node:fs/promises";
 import { extname, join } from "node:path";
 
-const version = "research-route";
+const version = "20260604-no-research-card-tags";
 const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: "base" });
 const imageExtensions = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif"]);
 const videoExtensions = new Set([".mp4", ".mov", ".webm"]);
@@ -75,7 +75,7 @@ const isMedia = (file) => {
 };
 
 const mediaMarkup = (tool, file, index) => {
-  const src = webPath(`tools/${tool.slug}/${file}`);
+  const src = `${webPath(`tools/${tool.slug}/${file}`)}?v=${version}`;
   const extension = extname(file).toLowerCase();
   if (videoExtensions.has(extension)) {
     return `<video src="${src}" controls muted playsinline></video>`;
@@ -111,7 +111,7 @@ const pageTemplate = (tool, media) => `<!doctype html>
     <main id="main" class="page-shell">
       <section class="container section-tight tool-detail-section">
         <article class="tool-detail">
-          <img class="tool-detail-image" src="${tool.logo}" alt="${escapeHtml(`${tool.title} logo`)}">
+          <img class="tool-detail-image" src="${tool.logo}?v=${version}" alt="${escapeHtml(`${tool.title} logo`)}">
           <div>
             <p class="eyebrow">${escapeHtml(tool.category)}</p>
             <h1>${escapeHtml(tool.title)}</h1>

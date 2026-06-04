@@ -4,7 +4,8 @@ Penn Monument for Hope: Bridge, A Symbol of Connection and Collaboration
 2024
 University of Pennsylvania
 
-Credits
+Team
+{
 Principal Investigators: Dr. Masoud Akbarzadeh (University of Pennsylvania), Dr. Joseph Robert Yost (Villanova University), Dr. Damon Bolhassani (City University of New York), Prof. Dr.-Ing. Jens Schneider (TU Wein, Glass Competence Center, TU Darmstadt)
 Advising Collaborator: Richard Farley (University of Pennsylvania)
 Project Lead Designer: Dr. Masoud Akbarzadeh
@@ -16,7 +17,7 @@ Structural Load Testing and Material Verification: Dr. Joseph Robert Yost, Jorge
 Glass Engineering: Prof. Dr.-Ing. Jens Schneider, Philipp Amir Chhadeh
 Early-Stage Research Team: Dr. Andrei Nejur, Tian Ouyang, Dr. Mostafa Akbari, Zhenhao Zhou, Cory Byrnes, Dr. Ulrich Knaack, Chris Borg Costanzi
 
-Construction Credits
+Fabrication
 Acrylic Milling Services: Werk5 GmbH
 Acrylic Materials: Polyvantis GmbH
 Hollow Glass Unit Construction: Glasbau Pritz GmbH
@@ -29,13 +30,16 @@ Steel Construction: Kuan-Ting Lai
 Fabrication Consultant: Ali Seyedahmadian
 Purchasing/Logistic Coordination: Jennifer Thuman
 Business Administrator: Nadine Beauhanois
-Installation Team: Masoud Akbarzadeh, Boyu Xiao, Michael Ting, Yao Lu, Amir Motavaselian, Yefan Zhi, Teng Teng, Joseph Yost, Philipp Amir Chhadeh, Golnaz Moharrer, Esmaeel Negarestan, Hengameh Fazeli and Alireza Fazeli
+
+Installation
+Masoud Akbarzadeh, Boyu Xiao, Michael Ting, Yao Lu, Amir Motavaselian, Yefan Zhi, Teng Teng, Joseph Yost, Philipp Amir Chhadeh, Golnaz Moharrer, Esmaeel Negarestan, Hengameh Fazeli and Alireza Fazeli
+}
 
 Image Credits
 Polyhedral Structures Laboratory, University of Pennsylvania
 
-Project Acknowledgement
+Acknowledgements
 We extend our heartfelt gratitude to our generous donor, Lori Kanter Tritsch, for her invaluable support and commitment, whose contributions have made the construction of this project possible, bringing our shared vision to life and creating a lasting impact for generations to come. A kind gift from Albert Kalimian provided the project’s Publication Fund.
 
 Keywords
-Polyhedral Graphic Statics, Structural Prototype
+Polyhedral Graphic Statics, Physical Prototyping, Structure
