@@ -1,0 +1,17 @@
+Project Name
+Algebraic 3DGS: Edge and Vertex Constraints
+
+2022
+University of Pennsylvania
+
+Team
+Yao Lu, Márton Hablicsek, Masoud Akbarzadeh
+
+Description: Built on a previous algebraic framework for polyhedron-based 3D Graphic Statics (3DGS), this research introduces an improved formulation that integrates edge-length and vertex-location constraints to provide greater control over generated dual diagrams. These constraints are incorporated as additional equations into the existing equilibrium and closure system, allowing the complete system to be solved using the Moore–Penrose inverse (MPI). Each solution represents a compatible set of edge lengths for constructing the corresponding dual diagram. The solution space produces a wide range of dual diagrams, including systems with both tensile and compressive members. This capability enables flexible exploration of structural forms that was difficult or impossible with earlier iterative methods or algebraic formulations. The method has been implemented as a plug-in for Rhino3D® and Grasshopper3D®, expanding the structural form-finding toolkit for designers, engineers, researchers, and educators. Its performance and accuracy are evaluated through comparative studies with iterative methods, followed by case studies demonstrating its design applications.
+
+Acknowledgements
+This research was funded by the National Science Foundation CAREER Award (NSF CAREER-CMMI 1944691) and the National Science Foundation Future Eco Manufacturing Research Grant (NSF FMRG-CMMI
+2037097) to Masoud Akbarzadeh.
+
+Keywords
+Algebraic Method, Computational Methodology, Physical Prototyping, Structure, Architecture, Graphic Statics

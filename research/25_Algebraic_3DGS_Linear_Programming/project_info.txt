@@ -1,0 +1,16 @@
+Project Name
+Algebraic 3DGS: Object-Driven Form-Finding using Mixed-Integer Linear Programming
+
+2025
+Thomas Jefferson University
+
+Team
+Yao Lu
+
+Description: In the form-finding process of algebraic 3D graphic statics (3DGS), polyhedral reciprocal diagrams can be represented by a system of linear equations, where each solution corresponds to a unique form diagram. While previous research has primarily focused on solving these equations using methods such as the Moore-Penrose Inverse (MPI), this paper explores the mixed-integer linear programming (MILP) approach as a powerful alternative. The MILP method not only enhances computational performance for complex geometries but also provides greater flexibility by allowing edge lengths to be constrained within specified ranges rather than fixed values. More importantly, it enables the optimization of form diagrams through the application of customizable objective functions, such as minimizing total edge length, achieving uniform edge length distribution, or reducing slenderness differences to prevent buckling in thin members. This method has been computationally implemented and integrated into the latest release of PolyFrame2, a plugin for Rhino3D and Grasshopper3D, making it accessible to designers and engineers. Case studies demonstrate the effectiveness and adaptability of this approach in optimizing structural forms according to diverse design criteria.
+
+Acknowledgements
+This research was funded by Thomas Jefferson University Faculty Seed Grant awarded to Yao Lu.
+
+Keywords
+Polyhedral Graphic Statics, Computational Methodology, Structure, Algebraic Method

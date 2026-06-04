@@ -1,0 +1,16 @@
+Project Name
+Algebraic 3DGS: Topology-Aware Identification of Independent Edges
+
+2026
+Thomas Jefferson University
+
+Team
+Yao Lu, Yefan Zhi, Masoud Akbarzadeh
+
+Description: In three-dimensional graphic statics (3DGS), both form and force diagrams have geometric degrees of freedom (GDoF), meaning that edge lengths can vary while edge directions, reciprocity, and topology remain unchanged. GDoF is a whole number that indicates how many independent edge lengths must be specified to determine a unique diagram. Algebraic 3DGS (A3DGS) represents reciprocal diagrams in matrix form and enables the computation of GDoF through rank analysis. Previous approaches based on reduced row echelon form (RREF) can identify independent edges corresponding to these degrees of freedom. However, many valid edge sets can parametrize the same admissible solution space, and RREF typically produces only one edge basis that is often spatially sparse. This paper presents a method for selecting geometrically clustered edge bases for GDoF in reciprocal polyhedral diagrams to support more intuitive and controllable design exploration. The proposed framework computes the null space of the constrained algebraic system and applies QR decomposition with topology-aware pivoting to select independent edges that are not only algebraically valid, but also spatially clustered and easier to interpret as design controls. Each selected edge acts as an explicit geometric parameter whose length can vary independently while preserving equilibrium and reciprocity. In addition, the paper extends the discussion of GDoF from unconstrained reciprocal diagrams to constrained settings, including edge-length and vertex constraints, showing how constraints change both the number of GDoF and the corresponding edge bases. Several case studies demonstrate the effectiveness of the method. The framework has been implemented in the PolyFrame 2 plug-in for Rhino and Grasshopper, expanding the toolset for structural form-finding using algebraic 3D graphic statics.
+
+Acknowledgements
+This research was funded by Thomas Jefferson University Faculty Seed Grant awarded to Yao Lu.
+
+Keywords
+Polyhedral Graphic Statics, Computational Methodology, Structure, Algebraic Method

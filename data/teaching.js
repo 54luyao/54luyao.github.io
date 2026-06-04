@@ -1,6 +1,6 @@
 export const courses = [
   {
-    "semester": "2025 Fall",
+    "semester": "2026 Spring",
     "institution": "Thomas Jefferson University",
     "courseType": "Undergraduate Seminar",
     "title": "ARCH-324/627: Visualization - Experimental Modeling",
