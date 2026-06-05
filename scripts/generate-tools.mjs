@@ -45,11 +45,11 @@ const tools = [
     slug: "polybrick",
     title: "PolyBrick",
     meta: "PolyBrick, a Grasshopper plugin for load-responsive lattice generation.",
-    logo: "/tools/logos/polybrick_plugin_1.gif",
+    logo: "/tools/logos/polybrick_plugin.gif",
     category: "Grasshopper",
     developers: "Yao Lu",
     year: "2019-2020",
-    contributors: "Eda Begum Birol",
+    contributors: "Eda Begum Birol, Ege Sekkin",
     acknowledgement: "PolyBrick is an outcome of the PolyBrick 2.0 research project, supervised by Prof. Jenny Sabin.",
     description: [
       "PolyBrick is written in C# and compiled as a Grasshopper plugin. It uses ellipsoid packing as a morphology control method to create load-responsive lattices. Available upon request."

@@ -77,7 +77,7 @@ function startBrandTyping() {
   if (!brand || !textTarget) return;
 
   const phrases = [
-    { text: "Yao Lu", bold: true, hold: 3500 },
+    { text: "Yao Lu", bold: true, hold: 5500 },
     { text: "Architecture", bold: false, hold: 2000 },
     { text: "Structure", bold: false, hold: 2000 },
     { text: "Computational Geometry", bold: false, hold: 2000 }
