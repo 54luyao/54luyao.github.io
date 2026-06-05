@@ -948,6 +948,31 @@ h3 {
   letter-spacing: 0;
 }
 
+.not-found-page {
+  display: grid;
+  min-height: calc(100svh - 88px);
+}
+
+.not-found-content {
+  align-self: center;
+  transform: translateY(-12vh);
+  text-align: center;
+}
+
+.not-found-content .page-index-title {
+  font-size: clamp(1.35rem, 3vw, 2.2rem);
+}
+
+.not-found-content p:not(.eyebrow) {
+  max-width: 34rem;
+  margin-inline: auto;
+  color: var(--muted);
+}
+
+.not-found-content .text-links {
+  justify-content: center;
+}
+
 .page-hero {
   padding-bottom: clamp(2rem, 5vw, 4rem);
 }
