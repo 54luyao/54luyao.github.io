@@ -950,12 +950,14 @@ h3 {
 
 .not-found-page {
   display: grid;
-  min-height: calc(100svh - 88px);
+  min-height: calc(100svh - 76px - 89px);
+  padding-top: 76px;
+  padding-bottom: 0;
 }
 
 .not-found-content {
   align-self: center;
-  transform: translateY(-12vh);
+  transform: translateY(-7vh);
   text-align: center;
 }
 
@@ -971,6 +973,15 @@ h3 {
 
 .not-found-content .text-links {
   justify-content: center;
+}
+
+body[data-page="not-found"] {
+  min-height: 100svh;
+  overflow: hidden;
+}
+
+body[data-page="not-found"] .site-footer {
+  padding: 1.1rem 0;
 }
 
 .page-hero {
