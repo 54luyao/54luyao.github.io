@@ -14,4 +14,4 @@ This research was funded by the National Science Foundation CAREER Award (NSF CA
 2037097) to Masoud Akbarzadeh.
 
 Keywords
-Algebraic Method, Computational Methodology, Physical Prototyping, Structure, Architecture, Graphic Statics
+Algebraic Method, Computational Methodology, Physical Prototyping, Structure, Graphic Statics
