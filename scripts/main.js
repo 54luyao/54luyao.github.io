@@ -1,5 +1,5 @@
 import { profile } from "../data/profile.js?v=20260603-bio";
-import { projects } from "../data/projects.js?v=20260604-no-research-card-tags";
+import { projects } from "../data/projects.js?v=20260612-tighter-page-top";
 import { publications } from "../data/publications.js?v=20260603-dissertation";
 import { courses, teachingThemes } from "../data/teaching.js?v=20260604-institution";
 import { homePhotos as homePhotoItems } from "../data/homePhotos.js?v=20260602";
