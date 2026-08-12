@@ -1,17 +1,17 @@
 export const profile = {
   name: "Yao Lu",
-  title: "Assistant Professor of Architecture at Thomas Jefferson University",
-  email: "Yao.Lu@jefferson.edu",
-  institution: "Thomas Jefferson University",
-  location: "Philadelphia, PA",
-  address: "4201 Henry Avenue, Smith House 107, Philadelphia, PA 19144",
-  updated: "April 30, 2026",
-  bio: "Yao Lu is an Assistant Professor of Architecture at Thomas Jefferson University. He is a researcher and designer with specialization in combining emerging computational technologies with structures as a design tool. As a researcher, he was awarded the Hangai Prize medal at the International Association for Shell and Spatial Structures (IASS) Annual Symposium in 2022 and received the YoungCAADRIA Award at the 2020 International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) for his research on efficient structures and computational methodologies. As a designer and builder, his projects have received several awards including the R & D Award of 2022 and the DigitalFUTURES Project Award of 2022. As a software developer, the computational tools he developed have been downloaded thousands of times by worldwide users.",
+  title: "Assistant Professor of Architecture at the University of Arizona",
+  email: "yaolu@arizona.edu",
+  institution: "The University of Arizona",
+  location: "Tucson, AZ",
+  address: "1040 N. Olive Rd., CAPLA West 310C, Tucson, AZ 85721",
+  updated: "August 11, 2026",
+  bio: "Yao Lu is a researcher and designer with specialization in combining emerging computational technologies with structures as a design tool. As a researcher, he was awarded the Hangai Prize medal at the International Association for Shell and Spatial Structures (IASS) Annual Symposium in 2022 and received the YoungCAADRIA Award at the 2020 International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) for his research on efficient structures and computational methodologies. As a designer and builder, his projects have received several awards including the R & D Award of 2022 and the DigitalFUTURES Project Award of 2022. As a software developer, the computational tools he developed have been downloaded thousands of times by worldwide users.",
   links: [
     { label: "Google Scholar", href: "https://scholar.google.com/citations?user=A5LYtTYAAAAJ", icon: "GS" },
     { label: "ORCID", href: "https://orcid.org/0000-0002-1034-4582", icon: "ID" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/54luyao/", icon: "in" },
-    { label: "Institutional Profile", href: "https://www.jefferson.edu/academics/colleges-schools-institutes/architecture-and-the-built-environment/faculty/lu.html" }
+    { label: "Institutional Profile", href: "https://capla.arizona.edu/faculty-staff/yao-lu" }
   ],
   cv: [
     {
@@ -20,7 +20,7 @@ export const profile = {
         { date: "2020-2024", title: "Ph.D. in Architecture", detail: "University of Pennsylvania, Philadelphia, PA" },
         { date: "2018-2020", title: "M.S. in Matter Design Computation", detail: "Cornell University, Ithaca, NY" },
         { date: "2014-2017", title: "M.Arch", detail: "Tongji University, Shanghai, China" },
-        { date: "2010-2014", title: "B.Eng in Architecture", detail: "Tongji University, Shanghai, China" }
+        { date: "2010-2014", title: "B.Eng", detail: "Tongji University, Shanghai, China" }
       ]
     },
     {
