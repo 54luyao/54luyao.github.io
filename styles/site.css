@@ -1147,8 +1147,16 @@ dd {
 .cv-contact {
   display: grid;
   grid-template-columns: 120px minmax(0, 1fr);
+  align-items: baseline;
+  gap: .35rem 1rem;
   max-width: 760px;
   margin: 1.2rem 0 0;
+}
+
+.cv-contact dt,
+.cv-contact dd {
+  margin: 0;
+  line-height: 1.45;
 }
 
 .cv-section {

@@ -1,7 +1,7 @@
 import { readdir, writeFile } from "node:fs/promises";
 import { extname, join } from "node:path";
 
-const version = "20260612-tighter-page-top";
+const version = "20260811-about-contact-align";
 const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: "base" });
 const imageExtensions = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif"]);
 const videoExtensions = new Set([".mp4", ".mov", ".webm"]);

@@ -26,7 +26,8 @@ export const profile = {
     {
       heading: "Employment",
       items: [
-        { date: "2024-present", title: "Assistant Professor", detail: "Thomas Jefferson University, Philadelphia, PA" },
+        { date: "2026-present", title: "Assistant Professor", detail: "The University of Arizona, Tucson, AZ" },
+        { date: "2024-2026", title: "Assistant Professor", detail: "Thomas Jefferson University, Philadelphia, PA" },
         { date: "2020-2024", title: "Doctoral Teaching Fellow", detail: "University of Pennsylvania, Philadelphia, PA" },
         { date: "2018-2020", title: "Research Assistant", detail: "JSLab, Cornell University, Ithaca, NY" },
         { date: "2018-2020", title: "Teaching Assistant", detail: "Cornell University, Ithaca, NY" },
