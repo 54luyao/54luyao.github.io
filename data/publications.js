@@ -1,5 +1,18 @@
 export const publications = [
   {
+    "title": "Topology-Aware Identification of Independent Edges in Algebraic 3D Graphic Statics",
+    "authors": "Yao Lu, Yefan Zhi, Masoud Akbarzadeh",
+    "year": "2026",
+    "venue": "IASS",
+    "type": "Conference",
+    "thumbnail": "/publications/26_IASS_GDoF/gdof.jpg",
+    "doi": "#",
+    "pdf": "/publications/26_IASS_GDoF/IASS_IWSS2026_GDoF_341.pdf",
+    "url": "#",
+    "project": "#",
+    "bibtex": "@inproceedings{lu_IASS26_GDoF,\n\ttitle        = {Topology-aware identification of independent edges in algebraic 3D graphic statics},\n\tauthor       = {Yao Lu and Yefan Zhi and Masoud Akbarzadeh},\n\tyear         = 2026,\n\tmonth        = {September},\n\tbooktitle    = {Annual Symposium of the International Association for Shell and Spatial Structures (IASS) and 3rd Italian Workshop on Shell and Spatial Structures (IWSS)},\n\taddress      = {Turin, Italy}\n}"
+  },
+  {
     "title": "Point Group Symmetry of Polyhedral Diagrams in Graphic Statics",
     "authors": "Yefan Zhi, Yao Lu, Masoud Akbarzadeh",
     "year": "2026",
